@@ -1,0 +1,8 @@
+{
+  "directories": ["engineering", "finance"],
+  "before": {},
+  "after": {
+    "engineering/sample.md": "# Sample role\nReview a compiler change.\n",
+    "finance/sample.md": "# Sample finance role\nReview an invoice.\n"
+  }
+}

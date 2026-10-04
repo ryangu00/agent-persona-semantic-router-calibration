@@ -1,0 +1,282 @@
+{
+  "demo-engineering-compiler": [
+    "Inspect the compiler proposal",
+    "Explain this compiler failure",
+    "Review a compiler change",
+    "Draft a compiler checklist",
+    "Improve the compiler workflow"
+  ],
+  "demo-engineering-storage": [
+    "Inspect the storage proposal",
+    "Explain this storage failure",
+    "Review a storage change",
+    "Draft a storage checklist",
+    "Improve the storage workflow"
+  ],
+  "demo-engineering-scheduler": [
+    "Inspect the scheduler proposal",
+    "Explain this scheduler failure",
+    "Review a scheduler change",
+    "Draft a scheduler checklist",
+    "Improve the scheduler workflow"
+  ],
+  "demo-engineering-network": [
+    "Inspect the network proposal",
+    "Explain this network failure",
+    "Review a network change",
+    "Draft a network checklist",
+    "Improve the network workflow"
+  ],
+  "demo-engineering-compiler-twin": [
+    "Inspect the compiler proposal",
+    "Explain this compiler failure",
+    "Review a compiler change",
+    "Draft a compiler checklist",
+    "Improve the compiler workflow"
+  ],
+  "demo-finance-ledger": [
+    "Inspect the ledger proposal",
+    "Explain this ledger failure",
+    "Review a ledger change",
+    "Draft a ledger checklist",
+    "Improve the ledger workflow"
+  ],
+  "demo-finance-invoice": [
+    "Inspect the invoice proposal",
+    "Explain this invoice failure",
+    "Review a invoice change",
+    "Draft a invoice checklist",
+    "Improve the invoice workflow"
+  ],
+  "demo-finance-budget": [
+    "Inspect the budget proposal",
+    "Explain this budget failure",
+    "Review a budget change",
+    "Draft a budget checklist",
+    "Improve the budget workflow"
+  ],
+  "demo-finance-cashflow": [
+    "Inspect the cashflow proposal",
+    "Explain this cashflow failure",
+    "Review a cashflow change",
+    "Draft a cashflow checklist",
+    "Improve the cashflow workflow"
+  ],
+  "demo-finance-ledger-twin": [
+    "Inspect the ledger proposal",
+    "Explain this ledger failure",
+    "Review a ledger change",
+    "Draft a ledger checklist",
+    "Improve the ledger workflow"
+  ],
+  "demo-design-typography": [
+    "Inspect the typography proposal",
+    "Explain this typography failure",
+    "Review a typography change",
+    "Draft a typography checklist",
+    "Improve the typography workflow"
+  ],
+  "demo-design-navigation": [
+    "Inspect the navigation proposal",
+    "Explain this navigation failure",
+    "Review a navigation change",
+    "Draft a navigation checklist",
+    "Improve the navigation workflow"
+  ],
+  "demo-design-contrast": [
+    "Inspect the contrast proposal",
+    "Explain this contrast failure",
+    "Review a contrast change",
+    "Draft a contrast checklist",
+    "Improve the contrast workflow"
+  ],
+  "demo-design-iconography": [
+    "Inspect the iconography proposal",
+    "Explain this iconography failure",
+    "Review a iconography change",
+    "Draft a iconography checklist",
+    "Improve the iconography workflow"
+  ],
+  "demo-design-typography-twin": [
+    "Inspect the typography proposal",
+    "Explain this typography failure",
+    "Review a typography change",
+    "Draft a typography checklist",
+    "Improve the typography workflow"
+  ],
+  "demo-marketing-newsletter": [
+    "Inspect the newsletter proposal",
+    "Explain this newsletter failure",
+    "Review a newsletter change",
+    "Draft a newsletter checklist",
+    "Improve the newsletter workflow"
+  ],
+  "demo-marketing-positioning": [
+    "Inspect the positioning proposal",
+    "Explain this positioning failure",
+    "Review a positioning change",
+    "Draft a positioning checklist",
+    "Improve the positioning workflow"
+  ],
+  "demo-marketing-campaign": [
+    "Inspect the campaign proposal",
+    "Explain this campaign failure",
+    "Review a campaign change",
+    "Draft a campaign checklist",
+    "Improve the campaign workflow"
+  ],
+  "demo-marketing-audience": [
+    "Inspect the audience proposal",
+    "Explain this audience failure",
+    "Review a audience change",
+    "Draft a audience checklist",
+    "Improve the audience workflow"
+  ],
+  "demo-marketing-editorial": [
+    "Inspect the editorial proposal",
+    "Explain this editorial failure",
+    "Review a editorial change",
+    "Draft a editorial checklist",
+    "Improve the editorial workflow"
+  ],
+  "demo-testing-fuzzing": [
+    "Inspect the fuzzing proposal",
+    "Explain this fuzzing failure",
+    "Review a fuzzing change",
+    "Draft a fuzzing checklist",
+    "Improve the fuzzing workflow"
+  ],
+  "demo-testing-fixture": [
+    "Inspect the fixture proposal",
+    "Explain this fixture failure",
+    "Review a fixture change",
+    "Draft a fixture checklist",
+    "Improve the fixture workflow"
+  ],
+  "demo-testing-coverage": [
+    "Inspect the coverage proposal",
+    "Explain this coverage failure",
+    "Review a coverage change",
+    "Draft a coverage checklist",
+    "Improve the coverage workflow"
+  ],
+  "demo-testing-mutation": [
+    "Inspect the mutation proposal",
+    "Explain this mutation failure",
+    "Review a mutation change",
+    "Draft a mutation checklist",
+    "Improve the mutation workflow"
+  ],
+  "demo-testing-regression": [
+    "Inspect the regression proposal",
+    "Explain this regression failure",
+    "Review a regression change",
+    "Draft a regression checklist",
+    "Improve the regression workflow"
+  ],
+  "demo-game-puzzle": [
+    "Inspect the puzzle proposal",
+    "Explain this puzzle failure",
+    "Review a puzzle change",
+    "Draft a puzzle checklist",
+    "Improve the puzzle workflow"
+  ],
+  "demo-game-animation": [
+    "Inspect the animation proposal",
+    "Explain this animation failure",
+    "Review a animation change",
+    "Draft a animation checklist",
+    "Improve the animation workflow"
+  ],
+  "demo-game-economy": [
+    "Inspect the economy proposal",
+    "Explain this economy failure",
+    "Review a economy change",
+    "Draft a economy checklist",
+    "Improve the economy workflow"
+  ],
+  "demo-game-combat": [
+    "Inspect the combat proposal",
+    "Explain this combat failure",
+    "Review a combat change",
+    "Draft a combat checklist",
+    "Improve the combat workflow"
+  ],
+  "demo-game-narrative": [
+    "Inspect the narrative proposal",
+    "Explain this narrative failure",
+    "Review a narrative change",
+    "Draft a narrative checklist",
+    "Improve the narrative workflow"
+  ],
+  "demo-support-ticket": [
+    "Inspect the ticket proposal",
+    "Explain this ticket failure",
+    "Review a ticket change",
+    "Draft a ticket checklist",
+    "Improve the ticket workflow"
+  ],
+  "demo-support-knowledge": [
+    "Inspect the knowledge proposal",
+    "Explain this knowledge failure",
+    "Review a knowledge change",
+    "Draft a knowledge checklist",
+    "Improve the knowledge workflow"
+  ],
+  "demo-support-onboarding": [
+    "Inspect the onboarding proposal",
+    "Explain this onboarding failure",
+    "Review a onboarding change",
+    "Draft a onboarding checklist",
+    "Improve the onboarding workflow"
+  ],
+  "demo-support-documentation": [
+    "Inspect the documentation proposal",
+    "Explain this documentation failure",
+    "Review a documentation change",
+    "Draft a documentation checklist",
+    "Improve the documentation workflow"
+  ],
+  "demo-support-escalation": [
+    "Inspect the escalation proposal",
+    "Explain this escalation failure",
+    "Review a escalation change",
+    "Draft a escalation checklist",
+    "Improve the escalation workflow"
+  ],
+  "demo-product-roadmap": [
+    "Inspect the roadmap proposal",
+    "Explain this roadmap failure",
+    "Review a roadmap change",
+    "Draft a roadmap checklist",
+    "Improve the roadmap workflow"
+  ],
+  "demo-product-discovery": [
+    "Inspect the discovery proposal",
+    "Explain this discovery failure",
+    "Review a discovery change",
+    "Draft a discovery checklist",
+    "Improve the discovery workflow"
+  ],
+  "demo-product-retention": [
+    "Inspect the retention proposal",
+    "Explain this retention failure",
+    "Review a retention change",
+    "Draft a retention checklist",
+    "Improve the retention workflow"
+  ],
+  "demo-product-feedback": [
+    "Inspect the feedback proposal",
+    "Explain this feedback failure",
+    "Review a feedback change",
+    "Draft a feedback checklist",
+    "Improve the feedback workflow"
+  ],
+  "demo-product-prioritization": [
+    "Inspect the prioritization proposal",
+    "Explain this prioritization failure",
+    "Review a prioritization change",
+    "Draft a prioritization checklist",
+    "Improve the prioritization workflow"
+  ]
+}

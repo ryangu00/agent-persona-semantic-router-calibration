@@ -1,0 +1,120 @@
+{
+  "synthetic": true,
+  "in_domain": [
+    {
+      "prompt": "Explain why this compiler rejects nested expressions",
+      "expect": "demo-engineering-compiler",
+      "accept": [
+        "demo-engineering-compiler-twin"
+      ]
+    },
+    {
+      "prompt": "Diagnose storage stalls during a checkpoint operation",
+      "expect": "demo-engineering-storage"
+    },
+    {
+      "prompt": "Investigate scheduler starvation under competing batch jobs",
+      "expect": "demo-engineering-scheduler"
+    },
+    {
+      "prompt": "Find ledger inconsistencies across the closing worksheet",
+      "expect": "demo-finance-ledger",
+      "accept": [
+        "demo-finance-ledger-twin"
+      ]
+    },
+    {
+      "prompt": "Investigate invoice discrepancies in the vendor register",
+      "expect": "demo-finance-invoice"
+    },
+    {
+      "prompt": "Compare budget assumptions against the department forecast",
+      "expect": "demo-finance-budget"
+    },
+    {
+      "prompt": "Review typography choices for a dense reading interface",
+      "expect": "demo-design-typography",
+      "accept": [
+        "demo-design-typography-twin"
+      ]
+    },
+    {
+      "prompt": "Explain navigation confusion in the settings screen",
+      "expect": "demo-design-navigation"
+    },
+    {
+      "prompt": "Assess contrast problems across the control states",
+      "expect": "demo-design-contrast"
+    },
+    {
+      "prompt": "Outline newsletter themes for the upcoming release",
+      "expect": "demo-marketing-newsletter"
+    },
+    {
+      "prompt": "Clarify positioning for a technical buyer audience",
+      "expect": "demo-marketing-positioning"
+    },
+    {
+      "prompt": "Evaluate campaign messaging against the launch brief",
+      "expect": "demo-marketing-campaign"
+    },
+    {
+      "prompt": "Prioritize fuzzing inputs for a structured parser",
+      "expect": "demo-testing-fuzzing"
+    },
+    {
+      "prompt": "Diagnose fixture contamination between independent test cases",
+      "expect": "demo-testing-fixture"
+    },
+    {
+      "prompt": "Identify coverage gaps in the validation suite",
+      "expect": "demo-testing-coverage"
+    },
+    {
+      "prompt": "Refine puzzle clues to reduce accidental ambiguity",
+      "expect": "demo-game-puzzle"
+    },
+    {
+      "prompt": "Review animation timing for the player controls",
+      "expect": "demo-game-animation"
+    },
+    {
+      "prompt": "Evaluate economy balance across the upgrade choices",
+      "expect": "demo-game-economy"
+    },
+    {
+      "prompt": "Resolve ticket confusion around the account workflow",
+      "expect": "demo-support-ticket"
+    },
+    {
+      "prompt": "Organize knowledge articles around recurring service questions",
+      "expect": "demo-support-knowledge"
+    },
+    {
+      "prompt": "Diagnose onboarding friction in the activation journey",
+      "expect": "demo-support-onboarding"
+    },
+    {
+      "prompt": "Compare roadmap priorities with current delivery constraints",
+      "expect": "demo-product-roadmap"
+    },
+    {
+      "prompt": "Plan discovery interviews about the adoption barriers",
+      "expect": "demo-product-discovery"
+    },
+    {
+      "prompt": "Investigate retention changes after the trial redesign",
+      "expect": "demo-product-retention"
+    }
+  ],
+  "garbage": [
+    "",
+    "zxvqq jkkzz vvv",
+    "kkkkkkkk",
+    "00000000",
+    "Where did my umbrella go",
+    "Sing a tune about clouds",
+    "Good evening everyone",
+    "zzqqzzqq jjjjj"
+  ]
+}

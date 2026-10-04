@@ -1,0 +1,8 @@
+{
+  "note": "Mock protocol values, not measured routing results.",
+  "baseline": {"exact": 14, "garbage": 10},
+  "scores": {"exact": 14, "garbage": 10},
+  "available": true,
+  "routed_paths": [],
+  "generation": "Inspect a compiler change\nExplain a compiler failure\nReview a compiler proposal\nDraft a compiler checklist\nImprove a compiler workflow"
+}

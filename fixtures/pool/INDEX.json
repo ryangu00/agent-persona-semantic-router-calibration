@@ -1,0 +1,692 @@
+{
+  "synthetic": true,
+  "total_personas": 40,
+  "categories": {
+    "engineering": {
+      "count": 5,
+      "personas": [
+        {
+          "name": "demo-engineering-compiler",
+          "title": "Compiler Specialist",
+          "description": "Review compiler work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "engineering",
+          "path": "engineering/compiler.md",
+          "tags": [
+            "engineering"
+          ],
+          "keywords": [
+            "compiler"
+          ],
+          "capabilities": [
+            "engineering"
+          ]
+        },
+        {
+          "name": "demo-engineering-storage",
+          "title": "Storage Specialist",
+          "description": "Review storage work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "engineering",
+          "path": "engineering/storage.md",
+          "tags": [
+            "engineering"
+          ],
+          "keywords": [
+            "storage"
+          ],
+          "capabilities": [
+            "engineering"
+          ]
+        },
+        {
+          "name": "demo-engineering-scheduler",
+          "title": "Scheduler Specialist",
+          "description": "Review scheduler work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "engineering",
+          "path": "engineering/scheduler.md",
+          "tags": [
+            "engineering"
+          ],
+          "keywords": [
+            "scheduler"
+          ],
+          "capabilities": [
+            "engineering"
+          ]
+        },
+        {
+          "name": "demo-engineering-network",
+          "title": "Network Specialist",
+          "description": "Review network work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "engineering",
+          "path": "engineering/network.md",
+          "tags": [
+            "engineering"
+          ],
+          "keywords": [
+            "network"
+          ],
+          "capabilities": [
+            "engineering"
+          ]
+        },
+        {
+          "name": "demo-engineering-compiler-twin",
+          "title": "Compiler Twin Specialist",
+          "description": "Review compiler work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "engineering",
+          "path": "engineering/compiler-twin.md",
+          "tags": [
+            "engineering"
+          ],
+          "keywords": [
+            "compiler"
+          ],
+          "capabilities": [
+            "engineering"
+          ],
+          "twin_of": "demo-engineering-compiler",
+          "representation": "English alias for translated-twin accept-set mechanics"
+        }
+      ]
+    },
+    "finance": {
+      "count": 5,
+      "personas": [
+        {
+          "name": "demo-finance-ledger",
+          "title": "Ledger Specialist",
+          "description": "Review ledger work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "finance",
+          "path": "finance/ledger.md",
+          "tags": [
+            "finance"
+          ],
+          "keywords": [
+            "ledger"
+          ],
+          "capabilities": [
+            "finance"
+          ]
+        },
+        {
+          "name": "demo-finance-invoice",
+          "title": "Invoice Specialist",
+          "description": "Review invoice work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "finance",
+          "path": "finance/invoice.md",
+          "tags": [
+            "finance"
+          ],
+          "keywords": [
+            "invoice"
+          ],
+          "capabilities": [
+            "finance"
+          ]
+        },
+        {
+          "name": "demo-finance-budget",
+          "title": "Budget Specialist",
+          "description": "Review budget work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "finance",
+          "path": "finance/budget.md",
+          "tags": [
+            "finance"
+          ],
+          "keywords": [
+            "budget"
+          ],
+          "capabilities": [
+            "finance"
+          ]
+        },
+        {
+          "name": "demo-finance-cashflow",
+          "title": "Cashflow Specialist",
+          "description": "Review cashflow work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "finance",
+          "path": "finance/cashflow.md",
+          "tags": [
+            "finance"
+          ],
+          "keywords": [
+            "cashflow"
+          ],
+          "capabilities": [
+            "finance"
+          ]
+        },
+        {
+          "name": "demo-finance-ledger-twin",
+          "title": "Ledger Twin Specialist",
+          "description": "Review ledger work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "finance",
+          "path": "finance/ledger-twin.md",
+          "tags": [
+            "finance"
+          ],
+          "keywords": [
+            "ledger"
+          ],
+          "capabilities": [
+            "finance"
+          ],
+          "twin_of": "demo-finance-ledger",
+          "representation": "English alias for translated-twin accept-set mechanics"
+        }
+      ]
+    },
+    "design": {
+      "count": 5,
+      "personas": [
+        {
+          "name": "demo-design-typography",
+          "title": "Typography Specialist",
+          "description": "Review typography work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "design",
+          "path": "design/typography.md",
+          "tags": [
+            "design"
+          ],
+          "keywords": [
+            "typography"
+          ],
+          "capabilities": [
+            "design"
+          ]
+        },
+        {
+          "name": "demo-design-navigation",
+          "title": "Navigation Specialist",
+          "description": "Review navigation work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "design",
+          "path": "design/navigation.md",
+          "tags": [
+            "design"
+          ],
+          "keywords": [
+            "navigation"
+          ],
+          "capabilities": [
+            "design"
+          ]
+        },
+        {
+          "name": "demo-design-contrast",
+          "title": "Contrast Specialist",
+          "description": "Review contrast work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "design",
+          "path": "design/contrast.md",
+          "tags": [
+            "design"
+          ],
+          "keywords": [
+            "contrast"
+          ],
+          "capabilities": [
+            "design"
+          ]
+        },
+        {
+          "name": "demo-design-iconography",
+          "title": "Iconography Specialist",
+          "description": "Review iconography work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "design",
+          "path": "design/iconography.md",
+          "tags": [
+            "design"
+          ],
+          "keywords": [
+            "iconography"
+          ],
+          "capabilities": [
+            "design"
+          ]
+        },
+        {
+          "name": "demo-design-typography-twin",
+          "title": "Typography Twin Specialist",
+          "description": "Review typography work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "design",
+          "path": "design/typography-twin.md",
+          "tags": [
+            "design"
+          ],
+          "keywords": [
+            "typography"
+          ],
+          "capabilities": [
+            "design"
+          ],
+          "twin_of": "demo-design-typography",
+          "representation": "English alias for translated-twin accept-set mechanics"
+        }
+      ]
+    },
+    "marketing": {
+      "count": 5,
+      "personas": [
+        {
+          "name": "demo-marketing-newsletter",
+          "title": "Newsletter Specialist",
+          "description": "Review newsletter work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "marketing",
+          "path": "marketing/newsletter.md",
+          "tags": [
+            "marketing"
+          ],
+          "keywords": [
+            "newsletter"
+          ],
+          "capabilities": [
+            "marketing"
+          ]
+        },
+        {
+          "name": "demo-marketing-positioning",
+          "title": "Positioning Specialist",
+          "description": "Review positioning work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "marketing",
+          "path": "marketing/positioning.md",
+          "tags": [
+            "marketing"
+          ],
+          "keywords": [
+            "positioning"
+          ],
+          "capabilities": [
+            "marketing"
+          ]
+        },
+        {
+          "name": "demo-marketing-campaign",
+          "title": "Campaign Specialist",
+          "description": "Review campaign work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "marketing",
+          "path": "marketing/campaign.md",
+          "tags": [
+            "marketing"
+          ],
+          "keywords": [
+            "campaign"
+          ],
+          "capabilities": [
+            "marketing"
+          ]
+        },
+        {
+          "name": "demo-marketing-audience",
+          "title": "Audience Specialist",
+          "description": "Review audience work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "marketing",
+          "path": "marketing/audience.md",
+          "tags": [
+            "marketing"
+          ],
+          "keywords": [
+            "audience"
+          ],
+          "capabilities": [
+            "marketing"
+          ]
+        },
+        {
+          "name": "demo-marketing-editorial",
+          "title": "Editorial Specialist",
+          "description": "Review editorial work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "marketing",
+          "path": "marketing/editorial.md",
+          "tags": [
+            "marketing"
+          ],
+          "keywords": [
+            "editorial"
+          ],
+          "capabilities": [
+            "marketing"
+          ]
+        }
+      ]
+    },
+    "testing": {
+      "count": 5,
+      "personas": [
+        {
+          "name": "demo-testing-fuzzing",
+          "title": "Fuzzing Specialist",
+          "description": "Review fuzzing work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "testing",
+          "path": "testing/fuzzing.md",
+          "tags": [
+            "testing"
+          ],
+          "keywords": [
+            "fuzzing"
+          ],
+          "capabilities": [
+            "testing"
+          ]
+        },
+        {
+          "name": "demo-testing-fixture",
+          "title": "Fixture Specialist",
+          "description": "Review fixture work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "testing",
+          "path": "testing/fixture.md",
+          "tags": [
+            "testing"
+          ],
+          "keywords": [
+            "fixture"
+          ],
+          "capabilities": [
+            "testing"
+          ]
+        },
+        {
+          "name": "demo-testing-coverage",
+          "title": "Coverage Specialist",
+          "description": "Review coverage work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "testing",
+          "path": "testing/coverage.md",
+          "tags": [
+            "testing"
+          ],
+          "keywords": [
+            "coverage"
+          ],
+          "capabilities": [
+            "testing"
+          ]
+        },
+        {
+          "name": "demo-testing-mutation",
+          "title": "Mutation Specialist",
+          "description": "Review mutation work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "testing",
+          "path": "testing/mutation.md",
+          "tags": [
+            "testing"
+          ],
+          "keywords": [
+            "mutation"
+          ],
+          "capabilities": [
+            "testing"
+          ]
+        },
+        {
+          "name": "demo-testing-regression",
+          "title": "Regression Specialist",
+          "description": "Review regression work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "testing",
+          "path": "testing/regression.md",
+          "tags": [
+            "testing"
+          ],
+          "keywords": [
+            "regression"
+          ],
+          "capabilities": [
+            "testing"
+          ]
+        }
+      ]
+    },
+    "game": {
+      "count": 5,
+      "personas": [
+        {
+          "name": "demo-game-puzzle",
+          "title": "Puzzle Specialist",
+          "description": "Review puzzle work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "game",
+          "path": "game/puzzle.md",
+          "tags": [
+            "game"
+          ],
+          "keywords": [
+            "puzzle"
+          ],
+          "capabilities": [
+            "game"
+          ]
+        },
+        {
+          "name": "demo-game-animation",
+          "title": "Animation Specialist",
+          "description": "Review animation work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "game",
+          "path": "game/animation.md",
+          "tags": [
+            "game"
+          ],
+          "keywords": [
+            "animation"
+          ],
+          "capabilities": [
+            "game"
+          ]
+        },
+        {
+          "name": "demo-game-economy",
+          "title": "Economy Specialist",
+          "description": "Review economy work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "game",
+          "path": "game/economy.md",
+          "tags": [
+            "game"
+          ],
+          "keywords": [
+            "economy"
+          ],
+          "capabilities": [
+            "game"
+          ]
+        },
+        {
+          "name": "demo-game-combat",
+          "title": "Combat Specialist",
+          "description": "Review combat work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "game",
+          "path": "game/combat.md",
+          "tags": [
+            "game"
+          ],
+          "keywords": [
+            "combat"
+          ],
+          "capabilities": [
+            "game"
+          ]
+        },
+        {
+          "name": "demo-game-narrative",
+          "title": "Narrative Specialist",
+          "description": "Review narrative work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "game",
+          "path": "game/narrative.md",
+          "tags": [
+            "game"
+          ],
+          "keywords": [
+            "narrative"
+          ],
+          "capabilities": [
+            "game"
+          ]
+        }
+      ]
+    },
+    "support": {
+      "count": 5,
+      "personas": [
+        {
+          "name": "demo-support-ticket",
+          "title": "Ticket Specialist",
+          "description": "Review ticket work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "support",
+          "path": "support/ticket.md",
+          "tags": [
+            "support"
+          ],
+          "keywords": [
+            "ticket"
+          ],
+          "capabilities": [
+            "support"
+          ]
+        },
+        {
+          "name": "demo-support-knowledge",
+          "title": "Knowledge Specialist",
+          "description": "Review knowledge work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "support",
+          "path": "support/knowledge.md",
+          "tags": [
+            "support"
+          ],
+          "keywords": [
+            "knowledge"
+          ],
+          "capabilities": [
+            "support"
+          ]
+        },
+        {
+          "name": "demo-support-onboarding",
+          "title": "Onboarding Specialist",
+          "description": "Review onboarding work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "support",
+          "path": "support/onboarding.md",
+          "tags": [
+            "support"
+          ],
+          "keywords": [
+            "onboarding"
+          ],
+          "capabilities": [
+            "support"
+          ]
+        },
+        {
+          "name": "demo-support-documentation",
+          "title": "Documentation Specialist",
+          "description": "Review documentation work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "support",
+          "path": "support/documentation.md",
+          "tags": [
+            "support"
+          ],
+          "keywords": [
+            "documentation"
+          ],
+          "capabilities": [
+            "support"
+          ]
+        },
+        {
+          "name": "demo-support-escalation",
+          "title": "Escalation Specialist",
+          "description": "Review escalation work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "support",
+          "path": "support/escalation.md",
+          "tags": [
+            "support"
+          ],
+          "keywords": [
+            "escalation"
+          ],
+          "capabilities": [
+            "support"
+          ]
+        }
+      ]
+    },
+    "product": {
+      "count": 5,
+      "personas": [
+        {
+          "name": "demo-product-roadmap",
+          "title": "Roadmap Specialist",
+          "description": "Review roadmap work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "product",
+          "path": "product/roadmap.md",
+          "tags": [
+            "product"
+          ],
+          "keywords": [
+            "roadmap"
+          ],
+          "capabilities": [
+            "product"
+          ]
+        },
+        {
+          "name": "demo-product-discovery",
+          "title": "Discovery Specialist",
+          "description": "Review discovery work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "product",
+          "path": "product/discovery.md",
+          "tags": [
+            "product"
+          ],
+          "keywords": [
+            "discovery"
+          ],
+          "capabilities": [
+            "product"
+          ]
+        },
+        {
+          "name": "demo-product-retention",
+          "title": "Retention Specialist",
+          "description": "Review retention work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "product",
+          "path": "product/retention.md",
+          "tags": [
+            "product"
+          ],
+          "keywords": [
+            "retention"
+          ],
+          "capabilities": [
+            "product"
+          ]
+        },
+        {
+          "name": "demo-product-feedback",
+          "title": "Feedback Specialist",
+          "description": "Review feedback work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "product",
+          "path": "product/feedback.md",
+          "tags": [
+            "product"
+          ],
+          "keywords": [
+            "feedback"
+          ],
+          "capabilities": [
+            "product"
+          ]
+        },
+        {
+          "name": "demo-product-prioritization",
+          "title": "Prioritization Specialist",
+          "description": "Review prioritization work, explain tradeoffs, and propose checkable deliverables.",
+          "category": "product",
+          "path": "product/prioritization.md",
+          "tags": [
+            "product"
+          ],
+          "keywords": [
+            "prioritization"
+          ],
+          "capabilities": [
+            "product"
+          ]
+        }
+      ]
+    }
+  }
+}
